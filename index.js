@@ -5,9 +5,12 @@
  */
 
 var ScholarTest = {
+  lastIrreversibleBlock:0,
+  numberOfBlocks:0,
   init: function () {
-
     document.getElementById('configuredProducer').innerText = window.producerList.length.toString();
+    this.lastBlockElement = document.getElementById('lastBlockEle');
+    this.numberOfBlocksEle = document.getElementById('numberOfBlocksEle');
 
     this.generateProducerTable();
     this.updateData();
@@ -47,6 +50,16 @@ var ScholarTest = {
         self.get(producerList[i].API_URL + '/v1/chain/get_info', function (data) {
           targetProducerObj.querySelector('.item-last-block').innerText = data.last_irreversible_block_num;
           targetProducerObj.querySelector('.item-time').innerText = data.head_block_time;
+
+
+          // detect lastIrreversibleBlock and numberOfBlocks
+          if(data.last_irreversible_block_num > self.lastIrreversibleBlock){
+            self.lastBlockElement.innerText = data.last_irreversible_block_num;
+          }
+
+          if(data.head_block_num > self.numberOfBlocks){
+            self.numberOfBlocksEle.innerText = data.head_block_num;
+          }
         }, function (error) {
           console.log(error);
         });
