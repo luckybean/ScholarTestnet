@@ -5,17 +5,16 @@
  */
 
 var ScholarTest = {
-  producerList: window.producerList,
   init: function () {
 
-    document.getElementById('configuredProducer').innerText = this.producerList.length.toString();
+    document.getElementById('configuredProducer').innerText = window.producerList.length.toString();
 
     this.generateProducerTable();
     this.updateData();
   },
   // load 21 BP's info from producer.js, then generate the BP HTML table.
   generateProducerTable: function () {
-    var producerList = this.producerList;
+    var producerList = window.producerList;
     var BPTable = document.getElementById('BPTable');
     for (var i = 0; i < producerList.length; i++) {
       var html = '<tr class="item">' +
@@ -39,41 +38,44 @@ var ScholarTest = {
   },
   // update every BP's Last irreversible block and Number of blocks dynamically
   updateData: function () {
-    var producerList = this.producerList;
+    var producerList = window.producerList;
     for (var i = 0; i < producerList.length; i++) {
       var self = this;
+      var targetProducerObj = document.getElementById(producerList[i].id);
 
-      function refreshData() {
-        var targetProducerObj = document.getElementById(producerList[i].id);
+      function refreshData(targetProducerObj) {
         self.get(producerList[i].API_URL + '/v1/chain/get_info', function (data) {
           targetProducerObj.querySelector('.item-last-block').innerText = data.last_irreversible_block_num;
           targetProducerObj.querySelector('.item-time').innerText = data.head_block_time;
+        }, function (error) {
+          console.log(error);
         });
       }
 
-      refreshData();
-      setTimeout(function () {
-        self.updateData();
-      }, 3000);
+      refreshData(targetProducerObj);
     }
+
+    setTimeout(function () {
+      self.updateData();
+    }, 3000);
   },
   // HTTP GET REQUEST
-  get: function (url, callback) {
+  get: function (url, successCallback, errorCallback) {
     var request = new XMLHttpRequest();
     request.open('GET', url, true);
 
     request.onload = function () {
-      if (request.status >= 200 && request.status < 400) {
-        // Success!
-        var data = JSON.parse(request.responseText);
-        callback(data);
-      } else {
-        // We reached our target server, but it returned an error
+      if (request.status === 200) {
+        successCallback(JSON.parse(request.responseText));
+      }
+      else {
+        errorCallback(request);
       }
     };
 
-    request.onerror = function () {
+    request.onerror = function (request) {
       // There was a connection error of some sort
+      errorCallback(request);
     };
 
     request.send();
