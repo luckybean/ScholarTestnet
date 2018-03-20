@@ -49,7 +49,7 @@ var ScholarTest = {
       function refreshData(targetProducerObj) {
         self.get(producerList[i].API_URL + '/v1/chain/get_info', function (data) {
           targetProducerObj.querySelector('.item-last-block').innerText = data.last_irreversible_block_num;
-          targetProducerObj.querySelector('.item-time').innerText = data.head_block_time;
+          targetProducerObj.querySelector('.item-time').innerText = data.head_block_time.replace('T',' ');
 
 
           // detect lastIrreversibleBlock and numberOfBlocks
