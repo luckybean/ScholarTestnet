@@ -1,36 +1,36 @@
 window.producerList = [
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
     "producer": "einstein",
-    "name": "EOS nation",
-    "contact": "EOS nation",
+    "name": "EOS Nation",
+    "contact": "EOS Nation",
     "block": "",
     "URL": "testnet.eosnation.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
     "producer": "tesla",
-    "name": "EOS nation",
-    "contact": "EOS nation",
+    "name": "EOS Nation",
+    "contact": "EOS Nation",
     "block": "",
     "URL": "testnet.eosnation.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
     "producer": "oppenheimer",
-    "name": "EOS nation",
-    "contact": "EOS nation",
+    "name": "EOS Nation",
+    "contact": "EOS Nation",
     "block": "",
     "URL": "testnet.eosnation.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosnation.io"
@@ -38,11 +38,11 @@ window.producerList = [
   {
     "logo": "https://meet.one/assets/MEET.svg",
     "producer": "campbell",
-    "name": "EOS nation",
-    "contact": "EOS nation",
+    "name": "EOS Nation",
+    "contact": "EOS Nation",
     "block": "",
     "URL": "testnet.eosnation.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosnation.io"
@@ -50,11 +50,11 @@ window.producerList = [
   {
     "logo": "https://meet.one/assets/MEET.svg",
     "producer": "hawking",
-    "name": "EOS nation",
-    "contact": "EOS nation",
+    "name": "EOS Nation",
+    "contact": "EOS Nation",
     "block": "",
     "URL": "testnet.eosnation.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosnation.io"
@@ -62,11 +62,11 @@ window.producerList = [
   {
     "logo": "https://meet.one/assets/MEET.svg",
     "producer": "plato",
-    "name": "EOS nation",
-    "contact": "EOS nation",
+    "name": "EOS Nation",
+    "contact": "EOS Nation",
     "block": "",
     "URL": "testnet.eosnation.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosnation.io"
@@ -74,11 +74,11 @@ window.producerList = [
   {
     "logo": "https://meet.one/assets/MEET.svg",
     "producer": "aristotle",
-    "name": "EOS nation",
-    "contact": "EOS nation",
+    "name": "EOS Nation",
+    "contact": "EOS Nation",
     "block": "",
     "URL": "testnet.eosnation.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosnation.io"
@@ -90,7 +90,7 @@ window.producerList = [
     "contact": "EOSoCal",
     "block": "",
     "URL": "testnet.eosocal.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosocal.io"
@@ -102,7 +102,7 @@ window.producerList = [
     "contact": "EOSoCal",
     "block": "",
     "URL": "testnet.eosocal.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosocal.io"
@@ -114,7 +114,7 @@ window.producerList = [
     "contact": "EOSoCal",
     "block": "",
     "URL": "testnet.eosocal.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosocal.io"
@@ -126,7 +126,7 @@ window.producerList = [
     "contact": "EOSoCal",
     "block": "",
     "URL": "testnet.eosocal.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosocal.io"
@@ -138,7 +138,7 @@ window.producerList = [
     "contact": "EOSoCal",
     "block": "",
     "URL": "testnet.eosocal.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosocal.io"
@@ -150,7 +150,7 @@ window.producerList = [
     "contact": "EOSoCal",
     "block": "",
     "URL": "testnet.eosocal.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosocal.io"
@@ -162,7 +162,7 @@ window.producerList = [
     "contact": "EOSoCal",
     "block": "",
     "URL": "testnet.eosocal.io",
-    "HTTP": "80",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.eosocal.io"
