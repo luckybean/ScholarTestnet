@@ -5,8 +5,8 @@
  */
 
 var ScholarTest = {
-  lastIrreversibleBlock:0,
-  numberOfBlocks:0,
+  lastIrreversibleBlock: 0,
+  numberOfBlocks: 0,
   init: function () {
     document.getElementById('configuredProducer').innerText = window.producerList.length.toString();
     this.lastBlockElement = document.getElementById('lastBlockEle');
@@ -23,7 +23,7 @@ var ScholarTest = {
       var html = '<tr class="item">' +
         '<th><div class="producer-logo">' +
         '<img src="' + producerList[i].logo + '"/>' +
-        '</div><span>' + producerList[i].name + '</span></th>' +
+        '</div><span>' + producerList[i].producer + '</span></th>' +
         '<th>' + producerList[i].name + '</th>' +
         '<th>' + producerList[i].contact + '</th>' +
         '<th class="item-last-block"></th>' +
@@ -34,7 +34,7 @@ var ScholarTest = {
 
       var tr = document.createElement("tr");
       tr.class = 'item';
-      tr.id = producerList[i].id;
+      tr.id = producerList[i].producer;
       tr.innerHTML = html;
       BPTable.appendChild(tr);
     }
@@ -44,20 +44,20 @@ var ScholarTest = {
     var producerList = window.producerList;
     for (var i = 0; i < producerList.length; i++) {
       var self = this;
-      var targetProducerObj = document.getElementById(producerList[i].id);
+      var targetProducerObj = document.getElementById(producerList[i].producer);
 
       function refreshData(targetProducerObj) {
         self.get(producerList[i].API_URL + '/v1/chain/get_info', function (data) {
           targetProducerObj.querySelector('.item-last-block').innerText = data.last_irreversible_block_num;
-          targetProducerObj.querySelector('.item-time').innerText = data.head_block_time.replace('T',' ');
+          targetProducerObj.querySelector('.item-time').innerText = data.head_block_time.replace('T', ' ');
 
 
           // detect lastIrreversibleBlock and numberOfBlocks
-          if(data.last_irreversible_block_num > self.lastIrreversibleBlock){
+          if (data.last_irreversible_block_num > self.lastIrreversibleBlock) {
             self.lastBlockElement.innerText = data.last_irreversible_block_num;
           }
 
-          if(data.head_block_num > self.numberOfBlocks){
+          if (data.head_block_num > self.numberOfBlocks) {
             self.numberOfBlocksEle.innerText = data.head_block_num;
           }
         }, function (error) {

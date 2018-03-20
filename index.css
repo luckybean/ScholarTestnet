@@ -111,10 +111,6 @@ body {
 }
 
 .bottom {
-    position: fixed;
-    left: 50%;
-    bottom: 0;
-    margin-left: -600px;
     width: 1200px;
     height: 70px;
     line-height: 70px;
@@ -135,6 +131,7 @@ body {
     float: right;
     width: 200px;
     height: 40px;
+    margin-top: 14px;
     line-height: 40px;
     text-align: center;
     border: solid 1px white;
