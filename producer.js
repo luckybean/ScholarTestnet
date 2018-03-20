@@ -240,15 +240,15 @@ window.producerList = [
     "API_URL": "http://testnet.meet.one:8888"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://raw.githubusercontent.com/bystake/bystake-ui/master/bystake-crop.jpg",
     "producer": "edison",
-    "name": "MeetOne",
-    "contact": "MeetOne",
+    "name": "ByStake",
+    "contact": "ByStake",
     "block": "",
-    "URL": "testnet.meet.one",
-    "HTTP": "8888",
-    "P2P": "9876",
+    "URL": "52.80.130.81",
+    "HTTP": "9989",
+    "P2P": "9999",
     "Time": "",
-    "API_URL": "http://testnet.meet.one:8888"
+    "API_URL": "http://52.80.130.81:9989"
   }
 ];
