@@ -1,6 +1,6 @@
 window.producerList = [
   {
-    "logo": "https://user-images.githubusercontent.com/550895/37682559-50ddfede-2c60-11e8-89f9-ec62e36dc90f.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "einstein",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -12,7 +12,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://user-images.githubusercontent.com/550895/37682559-50ddfede-2c60-11e8-89f9-ec62e36dc90f.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "tesla",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -24,7 +24,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://user-images.githubusercontent.com/550895/37682559-50ddfede-2c60-11e8-89f9-ec62e36dc90f.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "oppenheimer",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -36,7 +36,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://user-images.githubusercontent.com/550895/37682559-50ddfede-2c60-11e8-89f9-ec62e36dc90f.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "campbell",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -48,7 +48,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://user-images.githubusercontent.com/550895/37682559-50ddfede-2c60-11e8-89f9-ec62e36dc90f.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "hawking",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -60,7 +60,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://user-images.githubusercontent.com/550895/37682559-50ddfede-2c60-11e8-89f9-ec62e36dc90f.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "plato",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -72,7 +72,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://user-images.githubusercontent.com/550895/37682559-50ddfede-2c60-11e8-89f9-ec62e36dc90f.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "aristotle",
     "name": "EOS Nation",
     "contact": "EOS Nation",
