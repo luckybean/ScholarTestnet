@@ -36,7 +36,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
     "producer": "campbell",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -48,7 +48,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
     "producer": "hawking",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -60,7 +60,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
     "producer": "plato",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -72,7 +72,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
     "producer": "aristotle",
     "name": "EOS Nation",
     "contact": "EOS Nation",
