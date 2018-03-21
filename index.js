@@ -7,6 +7,7 @@
 var ScholarTest = {
   lastIrreversibleBlock: 0,
   numberOfBlocks: 0,
+  producerList: window.producerList,
   init: function () {
     document.getElementById('configuredProducer').innerText = window.producerList.length.toString();
     this.lastBlockElement = document.getElementById('lastBlockEle');
@@ -39,12 +40,11 @@ var ScholarTest = {
       BPTable.appendChild(tr);
     }
   },
-  // update every BP's Last irreversible block and Number of blocks dynamically
+  // update every BP's last irreversible block and number of blocks dynamically
   updateData: function () {
-    var producerList = window.producerList;
-    for (var i = 0; i < producerList.length; i++) {
-      var self = this;
-      var targetProducerObj = document.getElementById(producerList[i].producer);
+    var self = this;
+    for (var i = 0; i < self.producerList.length; i++) {
+      var targetProducerObj = document.getElementById(self.producerList[i].producer);
 
       function refreshData(targetProducerObj) {
         self.get(producerList[i].API_URL + '/v1/chain/get_info', function (data) {
@@ -55,10 +55,12 @@ var ScholarTest = {
           // detect lastIrreversibleBlock and numberOfBlocks
           if (data.last_irreversible_block_num > self.lastIrreversibleBlock) {
             self.lastBlockElement.innerText = data.last_irreversible_block_num;
+            self.lastIrreversibleBlock = data.last_irreversible_block_num;
           }
 
           if (data.head_block_num > self.numberOfBlocks) {
             self.numberOfBlocksEle.innerText = data.head_block_num;
+            self.numberOfBlocks = data.head_block_num;
           }
         }, function (error) {
           console.log(error);
