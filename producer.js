@@ -72,7 +72,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "http://imgs.cryptolions.io/EOS-lion-crystal.png",
+    "logo": "https://user-images.githubusercontent.com/550895/37839395-b78202ca-2e90-11e8-87b8-2ee5539e16ff.png",
     "producer": "aristotle",
     "name": "Crypto Lions",
     "contact": "Crypto Lions",
@@ -174,7 +174,7 @@ window.producerList = [
     "contact": "MeetOne",
     "block": "",
     "URL": "testnet.meet.one",
-    "HTTP": "8888",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.meet.one"
@@ -186,7 +186,7 @@ window.producerList = [
     "contact": "MeetOne",
     "block": "",
     "URL": "testnet.meet.one",
-    "HTTP": "8888",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.meet.one"
@@ -198,7 +198,7 @@ window.producerList = [
     "contact": "MeetOne",
     "block": "",
     "URL": "testnet.meet.one",
-    "HTTP": "8888",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.meet.one"
@@ -210,7 +210,7 @@ window.producerList = [
     "contact": "MeetOne",
     "block": "",
     "URL": "testnet.meet.one",
-    "HTTP": "8888",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.meet.one"
@@ -222,7 +222,7 @@ window.producerList = [
     "contact": "MeetOne",
     "block": "",
     "URL": "testnet.meet.one",
-    "HTTP": "8888",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.meet.one"
@@ -234,7 +234,7 @@ window.producerList = [
     "contact": "MeetOne",
     "block": "",
     "URL": "testnet.meet.one",
-    "HTTP": "8888",
+    "HTTP": "443",
     "P2P": "9876",
     "Time": "",
     "API_URL": "https://testnet.meet.one"
