@@ -3,7 +3,6 @@
  * @date : 2018.03.19
  * @desc : generate and refresh block producer data
  */
-
 var ScholarTest = {
   lastIrreversibleBlock: 0,
   numberOfBlocks: 0,
@@ -26,11 +25,11 @@ var ScholarTest = {
         '<img src="' + producerList[i].logo + '"/>' +
         '</div><span>' + producerList[i].producer + '</span></th>' +
         '<th>' + producerList[i].name + '</th>' +
-        '<th>' + producerList[i].contact + '</th>' +
         '<th class="item-last-block"></th>' +
-        '<th>' + producerList[i].URL + '</th>' +
+        '<th>' + producerList[i].API_URL + '</th>' +
         '<th>' + producerList[i].HTTP + '</th>' +
         '<th>' + producerList[i].P2P + '</th>' +
+        '<th class="item-server-version"></th>' +
         '<th class="item-time"></th>';
 
       var tr = document.createElement("tr");
@@ -47,10 +46,14 @@ var ScholarTest = {
       var targetProducerObj = document.getElementById(self.producerList[i].producer);
 
       function refreshData(targetProducerObj) {
-        self.get(producerList[i].API_URL + '/v1/chain/get_info', function (data) {
+        var HTTP = producerList[i].HTTP;
+        var API_URL = producerList[i].API_URL;
+        var PROTOCOL = Number(HTTP) === 443 ? "https://" : "http://";
+        var GET_INFO_URL = PROTOCOL + API_URL + ":" + HTTP + '/v1/chain/get_info';
+        self.get(GET_INFO_URL, function (data) {
           targetProducerObj.querySelector('.item-last-block').innerText = data.last_irreversible_block_num;
+          targetProducerObj.querySelector('.item-server-version').innerText = data.server_version;
           targetProducerObj.querySelector('.item-time').innerText = data.head_block_time.replace('T', ' ');
-
 
           // detect lastIrreversibleBlock and numberOfBlocks
           if (data.last_irreversible_block_num > self.lastIrreversibleBlock) {
