@@ -1,6 +1,6 @@
 window.producerList = [
   {
-    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "einstein",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -12,7 +12,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "tesla",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -24,7 +24,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "oppenheimer",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -36,7 +36,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "campbell",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -48,7 +48,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "hawking",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -60,7 +60,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "plato",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -72,7 +72,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmRDRboYHzeYvNrC1R5TUey2mfNs6rQHNJoPtxtxKxqUm5_128x128",
+    "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
     "producer": "aristotle",
     "name": "EOS Nation",
     "contact": "EOS Nation",
@@ -84,7 +84,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
     "producer": "suntzu",
     "name": "EOSoCal",
     "contact": "EOSoCal",
@@ -96,7 +96,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosocal.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
     "producer": "descartes",
     "name": "EOSoCal",
     "contact": "EOSoCal",
@@ -108,7 +108,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosocal.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
     "producer": "socrates",
     "name": "EOSoCal",
     "contact": "EOSoCal",
@@ -120,7 +120,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosocal.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
     "producer": "neitzche",
     "name": "EOSoCal",
     "contact": "EOSoCal",
@@ -132,7 +132,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosocal.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
     "producer": "aquinas",
     "name": "EOSoCal",
     "contact": "EOSoCal",
@@ -144,7 +144,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosocal.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
     "producer": "locke",
     "name": "EOSoCal",
     "contact": "EOSoCal",
@@ -156,7 +156,7 @@ window.producerList = [
     "API_URL": "https://testnet.eosocal.io"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
     "producer": "marx",
     "name": "EOSoCal",
     "contact": "EOSoCal",
