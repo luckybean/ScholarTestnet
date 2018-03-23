@@ -249,6 +249,6 @@ window.producerList = [
     "HTTP": "9989",
     "P2P": "9999",
     "Time": "",
-    "API_URL": "http://52.80.130.81:9989"
+    "API_URL": "https://testnet.eoscannon.io:8288"
   }
 ];
