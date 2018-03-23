@@ -177,7 +177,7 @@ window.producerList = [
     "HTTP": "8888",
     "P2P": "9876",
     "Time": "",
-    "API_URL": "http://testnet.meet.one:8888"
+    "API_URL": "https://testnet.meet.one"
   },
   {
     "logo": "https://meet.one/assets/MEET.svg",
@@ -189,7 +189,7 @@ window.producerList = [
     "HTTP": "8888",
     "P2P": "9876",
     "Time": "",
-    "API_URL": "http://testnet.meet.one:8888"
+    "API_URL": "https://testnet.meet.one"
   },
   {
     "logo": "https://meet.one/assets/MEET.svg",
@@ -201,7 +201,7 @@ window.producerList = [
     "HTTP": "8888",
     "P2P": "9876",
     "Time": "",
-    "API_URL": "http://testnet.meet.one:8888"
+    "API_URL": "https://testnet.meet.one"
   },
   {
     "logo": "https://meet.one/assets/MEET.svg",
@@ -213,7 +213,7 @@ window.producerList = [
     "HTTP": "8888",
     "P2P": "9876",
     "Time": "",
-    "API_URL": "http://testnet.meet.one:8888"
+    "API_URL": "https://testnet.meet.one"
   },
   {
     "logo": "https://meet.one/assets/MEET.svg",
@@ -225,7 +225,7 @@ window.producerList = [
     "HTTP": "8888",
     "P2P": "9876",
     "Time": "",
-    "API_URL": "http://testnet.meet.one:8888"
+    "API_URL": "https://testnet.meet.one"
   },
   {
     "logo": "https://meet.one/assets/MEET.svg",
@@ -237,7 +237,7 @@ window.producerList = [
     "HTTP": "8888",
     "P2P": "9876",
     "Time": "",
-    "API_URL": "http://testnet.meet.one:8888"
+    "API_URL": "https://testnet.meet.one"
   },
   {
     "logo": "https://raw.githubusercontent.com/bystake/bystake-ui/master/bystake-crop.jpg",
