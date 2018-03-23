@@ -72,16 +72,16 @@ window.producerList = [
     "API_URL": "https://testnet.eosnation.io"
   },
   {
-    "logo": "",
+    "logo": "http://imgs.cryptolions.io/EOS-lion-crystal.png",
     "producer": "aristotle",
     "name": "Crypto Lions",
     "contact": "Crypto Lions",
     "block": "",
-    "URL": "94.154.212.15",
+    "URL": "scholartestnet.cryptolions.io",
     "HTTP": "8912",
     "P2P": "9900",
     "Time": "",
-    "API_URL": "94.154.212.15"
+    "API_URL": "scholartestnet.cryptolions.io"
   },
   {
     "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
