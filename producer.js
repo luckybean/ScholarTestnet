@@ -164,7 +164,7 @@ window.producerList = [
     "producer": "edison",
     "name": "ByStake",
     "API_URL": "52.80.130.81",
-    "HTTP": "9989",
+    "HTTP": "8288",
     "P2P": "9999"
   }
 ];
