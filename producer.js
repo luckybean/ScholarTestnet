@@ -52,7 +52,7 @@ window.producerList = [
     "producer": "aristotle",
     "name": "Crypto Lions",
     "API_URL": "scholartestnet.cryptolions.io",
-    "HTTP": "8912",
+    "HTTP": "443",
     "P2P": "9900"
   },
   {
