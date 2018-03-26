@@ -70,12 +70,12 @@ window.producerList = [
     "P2P": "9900"
   },
   {
-    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
+    "logo": "",
     "producer": "suntzu",
-    "name": "EOSoCal",
-    "website": "https://eosocal.io",
-    "telegram": "https://t.me/gmory",
-    "API_URL": "testnet.eosocal.io",
+    "name": "Coinstakes",
+    "website": "https://coinstakes.io",
+    "telegram": "https://t.me/timogilvie",
+    "API_URL": "eos.coinstakes.io",
     "HTTP": "443",
     "P2P": "9876"
   },
