@@ -20,6 +20,8 @@ var ScholarTest = {
     var producerList = window.producerList;
     var BPTable = document.getElementById('BPTable');
     for (var i = 0; i < producerList.length; i++) {
+      var name = producerList[i].name;
+      var website = producerList[i].website;
       var HTTP = producerList[i].HTTP;
       var API_URL = producerList[i].API_URL;
       var GET_INFO_URL = `https://${API_URL}:${HTTP}/v1/chain/get_info`;
@@ -27,7 +29,7 @@ var ScholarTest = {
   <th><div class="producer-logo">
   <img src="${producerList[i].logo}"/>
   </div><span>${producerList[i].producer}</span></th>
-  <th>${producerList[i].name}</th>
+  <th><a href="${website}" target="_blank">${name}</a></th>
   <th class="item-last-block"></th>
   <th><a href="${GET_INFO_URL}" target="_blank">${API_URL}</a></th>
   <th>${producerList[i].HTTP}</th>
