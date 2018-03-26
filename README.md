@@ -8,6 +8,10 @@ https://meet-one.github.io/eos-scholar-testnet
 
 https://scholar.eosnation.io
 
+**EOSoCal**
+
+https://scholar.eosocal.io
+
 ### New Producers
 
 To add/replace new producers, modify the [`producers.js`](producers.js) file.
