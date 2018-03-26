@@ -20,17 +20,20 @@ var ScholarTest = {
     var producerList = window.producerList;
     var BPTable = document.getElementById('BPTable');
     for (var i = 0; i < producerList.length; i++) {
-      var html = '<tr class="item">' +
-        '<th><div class="producer-logo">' +
-        '<img src="' + producerList[i].logo + '"/>' +
-        '</div><span>' + producerList[i].producer + '</span></th>' +
-        '<th>' + producerList[i].name + '</th>' +
-        '<th class="item-last-block"></th>' +
-        '<th>' + producerList[i].API_URL + '</th>' +
-        '<th>' + producerList[i].HTTP + '</th>' +
-        '<th>' + producerList[i].P2P + '</th>' +
-        '<th class="item-server-version"></th>' +
-        '<th class="item-time"></th>';
+      var HTTP = producerList[i].HTTP;
+      var API_URL = producerList[i].API_URL;
+      var GET_INFO_URL = `https://${API_URL}:${HTTP}/v1/chain/get_info`;
+      var html = `<tr class="item">
+  <th><div class="producer-logo">
+  <img src="${producerList[i].logo}"/>
+  </div><span>${producerList[i].producer}</span></th>
+  <th>${producerList[i].name}</th>
+  <th class="item-last-block"></th>
+  <th><a href="${GET_INFO_URL}" target="_blank">${API_URL}</a></th>
+  <th>${producerList[i].HTTP}</th>
+  <th>${producerList[i].P2P}</th>
+  <th class="item-server-version"></th>
+  <th class="item-time"></th>`;
 
       var tr = document.createElement("tr");
       tr.class = 'item';
@@ -48,8 +51,7 @@ var ScholarTest = {
       function refreshData(targetProducerObj) {
         var HTTP = producerList[i].HTTP;
         var API_URL = producerList[i].API_URL;
-        var PROTOCOL = Number(HTTP) === 443 ? "https://" : "http://";
-        var GET_INFO_URL = PROTOCOL + API_URL + ":" + HTTP + '/v1/chain/get_info';
+        var GET_INFO_URL = `https://${API_URL}:${HTTP}/v1/chain/get_info`;
         self.get(GET_INFO_URL, function (data) {
           targetProducerObj.querySelector('.item-last-block').innerText = data.last_irreversible_block_num;
           targetProducerObj.querySelector('.item-server-version').innerText = data.server_version;
