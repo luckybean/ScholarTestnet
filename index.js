@@ -1,5 +1,5 @@
 /**
- * @author yahuang.wu
+ * @author EOS Nation / EOSoCal / MEET.ONE
  * @date : 2018.03.19
  * @desc : generate and refresh block producer data
  */
