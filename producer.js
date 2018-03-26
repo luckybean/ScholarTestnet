@@ -126,7 +126,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://meet.one/assets/MEET.png",
     "producer": "kant",
     "name": "MeetOne",
     "telegram": "https://t.me/YahuangNg",
@@ -135,7 +135,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://meet.one/assets/MEET.png",
     "producer": "sartre",
     "name": "MeetOne",
     "telegram": "https://t.me/YahuangNg",
@@ -144,7 +144,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://meet.one/assets/MEET.png",
     "producer": "epicurus",
     "name": "MeetOne",
     "telegram": "https://t.me/YahuangNg",
@@ -153,7 +153,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://meet.one/assets/MEET.png",
     "producer": "kierkegaard",
     "name": "MeetOne",
     "telegram": "https://t.me/YahuangNg",
@@ -162,7 +162,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://meet.one/assets/MEET.png",
     "producer": "rand",
     "name": "MeetOne",
     "telegram": "https://t.me/YahuangNg",
@@ -171,7 +171,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://meet.one/assets/MEET.svg",
+    "logo": "https://meet.one/assets/MEET.png",
     "producer": "hypatia",
     "name": "MeetOne",
     "telegram": "https://t.me/YahuangNg",
