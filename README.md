@@ -53,7 +53,7 @@ EOS.IO Scholar Testnet is currently being developed & supported by the following
 - [EOS Cannon](https://eoscannon.io)
 
 
-![](https://steemitimages.com/DQmPoj8nmJQkFAwpmrkK1hmUma9R1jiqC13aBrQ9i9p4i5M/7321522120868_.pic_hd.jpg)
+![](https://steemitimages.com/DQmYnhbZa27rMWATX3pivecU5G2DtEKWoUNEZrtKkP3pqW8/7431522121201_.pic_hd.jpg)
 
 ## Social Media
 
