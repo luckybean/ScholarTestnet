@@ -144,7 +144,7 @@ window.producerList = [
     "producer": "kant",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -154,7 +154,7 @@ window.producerList = [
     "producer": "sartre",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -164,7 +164,7 @@ window.producerList = [
     "producer": "epicurus",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -174,7 +174,7 @@ window.producerList = [
     "producer": "kierkegaard",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -184,7 +184,7 @@ window.producerList = [
     "producer": "rand",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -194,7 +194,7 @@ window.producerList = [
     "producer": "hypatia",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -202,11 +202,11 @@ window.producerList = [
   {
     "logo": "https://raw.githubusercontent.com/bystake/bystake-ui/master/bystake-crop.jpg",
     "producer": "edison",
-    "name": "ByStake",
-    "website": "",
-    "telegram": "",
-    "API_URL": "52.80.130.81",
-    "HTTP": "8288",
+    "name": "EOS Cannon",
+    "website": "https://eoscannon.io",
+    "telegram": "https://t.me/Luckybean",
+    "API_URL": "testnet.eoscannon.io",
+    "HTTP": "443",
     "P2P": "9999"
   }
 ];
