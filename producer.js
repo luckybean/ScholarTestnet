@@ -144,7 +144,7 @@ window.producerList = [
     "producer": "kant",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -154,7 +154,7 @@ window.producerList = [
     "producer": "sartre",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -164,7 +164,7 @@ window.producerList = [
     "producer": "epicurus",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -174,7 +174,7 @@ window.producerList = [
     "producer": "kierkegaard",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -184,7 +184,7 @@ window.producerList = [
     "producer": "rand",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"
@@ -194,7 +194,7 @@ window.producerList = [
     "producer": "hypatia",
     "name": "MeetOne",
     "website": "https://meet.one",
-    "telegram": "https://t.me/YahuangNg",
+    "telegram": "https://t.me/wuyahuang",
     "API_URL": "testnet.meet.one",
     "HTTP": "443",
     "P2P": "9876"

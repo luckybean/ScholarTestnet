@@ -49,7 +49,7 @@ EOS.IO Scholar Testnet is currently being developed & supported by the following
 
 - [EOS Nation](https://eosnation.io)
 - [EOSoCal](https://eosocal.io)
-- [Meet.one](https://meet.one)
+- [MEET.ONE](https://meet.one/en)
 - [EOS Cannon](https://eoscannon.io)
 
 
