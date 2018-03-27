@@ -82,7 +82,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
+    "logo": "https://static.wixstatic.com/media/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png/v1/fill/w_205,h_205,al_c,usm_0.66_1.00_0.01/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png",
     "producer": "descartes",
     "name": "EOSoCal",
     "website": "https://eosocal.io",
@@ -92,7 +92,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
+    "logo": "https://static.wixstatic.com/media/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png/v1/fill/w_205,h_205,al_c,usm_0.66_1.00_0.01/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png",
     "producer": "socrates",
     "name": "EOSoCal",
     "website": "https://eosocal.io",
@@ -102,7 +102,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
+    "logo": "https://static.wixstatic.com/media/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png/v1/fill/w_205,h_205,al_c,usm_0.66_1.00_0.01/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png",
     "producer": "neitzche",
     "name": "EOSoCal",
     "website": "https://eosocal.io",
@@ -112,7 +112,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
+    "logo": "https://static.wixstatic.com/media/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png/v1/fill/w_205,h_205,al_c,usm_0.66_1.00_0.01/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png",
     "producer": "aquinas",
     "name": "EOSoCal",
     "website": "https://eosocal.io",
@@ -122,7 +122,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
+    "logo": "https://static.wixstatic.com/media/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png/v1/fill/w_205,h_205,al_c,usm_0.66_1.00_0.01/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png",
     "producer": "locke",
     "name": "EOSoCal",
     "website": "https://eosocal.io",
@@ -132,7 +132,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://static.wixstatic.com/media/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png/v1/fill/w_308,h_280,al_c,lg_1/4d53b1_3b56eae061c64eee8aab709163197736~mv2.png",
+    "logo": "https://static.wixstatic.com/media/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png/v1/fill/w_205,h_205,al_c,usm_0.66_1.00_0.01/4d53b1_c45bb985bedc464087e369a9e0d3118c~mv2.png",
     "producer": "marx",
     "name": "EOSoCal",
     "website": "https://eosocal.io",
