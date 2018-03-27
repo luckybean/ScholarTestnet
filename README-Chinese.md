@@ -4,17 +4,17 @@
 
 ![logo](https://steemitimages.com/DQmY3LuDiJEseTaHz31XQqW2gsX2r1PMaveCLv5ydaFCz6M/image.png)
 
-我们成立EOS Scholar测试网络的初衷是希望可以给出块节点候选者们提供一个在线且安全的EOS测试网络环境, 同时我们也会提供相应的学习材料。
+我们成立EOS Scholar测试网络的初衷是希望可以为出块节点候选者们提供一个实时在线且安全的EOS测试网环境, 同时我们也会提供相应的学习材料。
 
 ## 目标和愿景
 
-- 在EOS测试网络上学习的机会
+- 拥有在EOS测试网学习的机会
 - 最佳实践合集
-- EOS.IO 出块节点服务器配置相关
+- EOS.IO 出块节点服务器配置
 - 故障排除和技术支持
 - 多语言文档
 - 出块节点高频率轮动
-- 安全性和网络审核
+- 安全性及网络审计
 - 主节点/从节点/备用节点规则和相关配置
 
 ## 在线聊天 (Telegram)
@@ -31,11 +31,11 @@ https://t.me/ScholarTestnet
 
 ## 开源
 
-本项目由社区自发成立,所有代码以及文档都会在Github上公开, 非常欢迎你能加入一起参与开发
+加入到Github参与开发。所有的源代码和文档将可以公开的被任何人使用。请不要犹豫，为这个社区驱动的倡议作出贡献。
 
 [github.com/ScholarTestnet](https://github.com/ScholarTestnet)
 
-## 出块节点浏览
+## 出块节点浏览器
 
 我们提供了一个非常易用的网站,可以让大家看到当前EOS.IO Scholar测试网络每一个出块节点的状态和详细信息
 
