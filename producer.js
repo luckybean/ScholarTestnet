@@ -70,7 +70,7 @@ window.producerList = [
     "P2P": "9900"
   },
   {
-    "logo": "",
+    "logo": "https://d340lr3764rrcr.cloudfront.net/Images/eos_logo@2x.png",
     "producer": "suntzu",
     "name": "Coinstakes",
     "website": "https://coinstakes.io",
@@ -200,7 +200,7 @@ window.producerList = [
     "P2P": "9876"
   },
   {
-    "logo": "https://raw.githubusercontent.com/bystake/bystake-ui/master/bystake-crop.jpg",
+    "logo": "https://user-images.githubusercontent.com/550895/37975332-0f87ca08-31ad-11e8-83a0-9a000e47cc30.png",
     "producer": "edison",
     "name": "EOS Cannon",
     "website": "https://eoscannon.io",
