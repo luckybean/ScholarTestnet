@@ -1,3 +1,5 @@
+var defaultLogo = "https://user-images.githubusercontent.com/550895/37975477-6e1b53dc-31ad-11e8-9367-3415c3bf29b9.png"
+
 window.producerList = [
   {
     "logo": "https://user-images.githubusercontent.com/550895/37734119-9f6ead4e-2d20-11e8-8d37-35e60ffb9c22.png",
@@ -70,7 +72,7 @@ window.producerList = [
     "P2P": "9900"
   },
   {
-    "logo": "https://d340lr3764rrcr.cloudfront.net/Images/eos_logo@2x.png",
+    "logo": defaultLogo,
     "producer": "suntzu",
     "name": "Coinstakes",
     "website": "https://coinstakes.io",
