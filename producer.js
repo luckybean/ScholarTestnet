@@ -202,11 +202,11 @@ window.producerList = [
   {
     "logo": "https://raw.githubusercontent.com/bystake/bystake-ui/master/bystake-crop.jpg",
     "producer": "edison",
-    "name": "ByStake",
-    "website": "",
-    "telegram": "",
-    "API_URL": "52.80.130.81",
-    "HTTP": "8288",
+    "name": "EOS Cannon",
+    "website": "https://eoscannon.io",
+    "telegram": "https://t.me/Luckybean",
+    "API_URL": "testnet.eoscannon.io",
+    "HTTP": "443",
     "P2P": "9999"
   }
 ];
