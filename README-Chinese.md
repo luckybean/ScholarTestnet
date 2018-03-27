@@ -1,4 +1,4 @@
-# EOS.IO Scholar Testnet
+# EOS.IO Scholar测试网络
 
 #### [Click me switch to English version](README.md)
 
