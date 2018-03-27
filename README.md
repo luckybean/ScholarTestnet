@@ -1,5 +1,7 @@
 # EOS.IO Scholar Testnet
 
+## [点击查看中文版本](README-Chinese.md)
+
 ![logo](https://steemitimages.com/DQmY3LuDiJEseTaHz31XQqW2gsX2r1PMaveCLv5ydaFCz6M/image.png)
 
 > Educating the community one block at a time
@@ -8,7 +10,7 @@ EOS Scholar Testnet was founded with the vision to provide learning & educationa
 
 ## Goals & Vision
 
-- Opportunity to Learn on a live EOS Tesnet
+- Opportunity to Learn on a live EOS Testnet
 - Collection of Best Practices
 - EOS.IO BP Server Configurations
 - Troubleshooting & Support
@@ -25,7 +27,7 @@ https://t.me/ScholarTestnet
 
 ## Early Bird Access (Join Now)
 
-For those interested in joining the EOS Scholar Tesnet and want early bird access:
+For those interested in joining the EOS Scholar Testnet and want early bird access:
 
 [Please fill out this form](https://docs.google.com/forms/d/1wUrzzyyzqQAPIGaikxrJEKq9iDnICO9bw4mkaXalu0Y).
 
