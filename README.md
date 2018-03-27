@@ -1,6 +1,6 @@
-# EOS.IO Scholar Testnet
+# EOS.IO Scholar测试网络
 
-## [点击查看中文版本](README-Chinese.md)
+#### [点击查看中文版本](README-Chinese.md)
 
 ![logo](https://steemitimages.com/DQmY3LuDiJEseTaHz31XQqW2gsX2r1PMaveCLv5ydaFCz6M/image.png)
 
@@ -19,7 +19,7 @@ EOS Scholar Testnet was founded with the vision to provide learning & educationa
 - Security & Networking audits
 - Establishing Master/Slave Failover Protocol and Configuration
 
-## Live Chat (Telegram)
+### Live Chat (Telegram)
 
 Active development conducted on Telegram:
 

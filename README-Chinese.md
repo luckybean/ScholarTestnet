@@ -1,6 +1,6 @@
 # EOS.IO Scholar Testnet
 
-## [Click me switch to English version](README.md)
+#### [Click me switch to English version](README.md)
 
 ![logo](https://steemitimages.com/DQmY3LuDiJEseTaHz31XQqW2gsX2r1PMaveCLv5ydaFCz6M/image.png)
 
@@ -19,7 +19,7 @@
 
 ## 在线聊天 (Telegram)
 
-我们会在Telegram群组积极公布发展情况:
+我们会在Telegram群组及时公布发展情况:
 
 https://t.me/ScholarTestnet
 
@@ -27,7 +27,7 @@ https://t.me/ScholarTestnet
 
 剩余出块节点名额不多,如果你想加入EOS Scholar Testnet:
 
-[请填写此表单](https://docs.google.com/forms/d/1wUrzzyyzqQAPIGaikxrJEKq9iDnICO9bw4mkaXalu0Y).
+[请填写此表单](https://docs.google.com/forms/d/1wUrzzyyzqQAPIGaikxrJEKq9iDnICO9bw4mkaXalu0Y)
 
 ## 开源
 
